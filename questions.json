@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "question": "Which yoga pose improves flexibility the most?",
+        "options": ["Mountain Pose", "Cobra Pose", "Tree Pose", "Bridge Pose"],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "question": "Which vitamin is known as the sunshine vitamin?",
+        "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12"],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a cloud service provider?",
+        "options": ["Windows", "AWS", "Oracle DB", "MySQL"],
+        "answer": 1
+    }
+]
