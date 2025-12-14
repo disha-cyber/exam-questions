@@ -1,20 +1,22 @@
 [
-    {
-        "id": 1,
-        "question": "Which yoga pose improves flexibility the most?",
-        "options": ["Mountain Pose", "Cobra Pose", "Tree Pose", "Bridge Pose"],
-        "answer": 1
-    },
-    {
-        "id": 2,
-        "question": "Which vitamin is known as the sunshine vitamin?",
-        "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12"],
-        "answer": 2
-    },
-    {
-        "id": 3,
-        "question": "Which of the following is a cloud service provider?",
-        "options": ["Windows", "AWS", "Oracle DB", "MySQL"],
-        "answer": 1
-    }
+  {
+    "question": "What is the goal of Yoga for Human Excellence?",
+    "options": [
+      "Fitness",
+      "Entertainment",
+      "Human transformation",
+      "Competition"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which practice improves breath control?",
+    "options": [
+      "Asana",
+      "Pranayama",
+      "Diet",
+      "Sleep"
+    ],
+    "answer": 1
+  }
 ]
