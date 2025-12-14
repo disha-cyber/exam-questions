@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Delhi", "Mumbai", "Chennai", "Kolkata"],
+    "answer": 0
+  },
+  {
+    "question": "Which language is used for web apps?",
+    "options": ["Python", "Java", "C++", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "Hyper Text Transfer Protocol",
+      "High Transfer Text Protocol",
+      "Hyperlink Transfer Protocol",
+      "None"
+    ],
+    "answer": 0
+  }
+]
