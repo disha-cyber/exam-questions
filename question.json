@@ -1,21 +1,51 @@
 [
   {
-    "question": "What is the capital of India?",
-    "options": ["Delhi", "Mumbai", "Chennai", "Kolkata"],
+    "question": "What is the meaning of Yoga?",
+    "options": [
+      "Union",
+      "Exercise",
+      "Meditation",
+      "Breathing"
+    ],
     "answer": 0
   },
   {
-    "question": "Which language is used for web apps?",
-    "options": ["Python", "Java", "C++", "All of the above"],
-    "answer": 3
+    "question": "Which asana is also called Tree Pose?",
+    "options": [
+      "Vrikshasana",
+      "Tadasana",
+      "Padmasana",
+      "Bhujangasana"
+    ],
+    "answer": 0
   },
   {
-    "question": "What does HTTP stand for?",
+    "question": "Which breathing technique is known as Alternate Nostril Breathing?",
     "options": [
-      "Hyper Text Transfer Protocol",
-      "High Transfer Text Protocol",
-      "Hyperlink Transfer Protocol",
-      "None"
+      "Kapalbhati",
+      "Anulom Vilom",
+      "Bhastrika",
+      "Ujjayi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Surya Namaskar consists of how many poses?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which yoga improves spinal flexibility?",
+    "options": [
+      "Bhujangasana",
+      "Shavasana",
+      "Vajrasana",
+      "Sukhasana"
     ],
     "answer": 0
   }
